@@ -1,4 +1,3 @@
-Here's a GitHub-ready version in American English, structured as a strategic program document that can be assigned directly to a Head of Commercial AI.
 
 # Pillar 1: Commercial AI Workflows
 
